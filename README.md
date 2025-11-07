@@ -1,4 +1,4 @@
-# 🧩 SQL Studies — SQL Server, MySQL & PostgreSQL
+# 🧩 SQL Studies - SQL Server, MySQL & PostgreSQL
 
 ## English
 
