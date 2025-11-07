@@ -34,10 +34,6 @@ cd SQL
 
 Open the SQL scripts in your preferred DBMS environment and execute them directly.
 
-### 📄 License
-
-This project is licensed under the **MIT License** – see the LICENSE file for details.
-
 ---
 
 ## Português Brasileiro
@@ -73,9 +69,5 @@ cd SQL
 ```
 
 Abra os scripts no ambiente do SGBD de sua preferência e execute-os diretamente.
-
-### 📄 Licença
-
-Este projeto está licenciado sob a **Licença MIT** – consulte o arquivo LICENSE para mais detalhes.
 
 ---
