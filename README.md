@@ -1,10 +1,8 @@
----
-
 # 🧩 SQL Studies — SQL Server, MySQL & PostgreSQL
 
 ## English
 
-This repository was created for **studying and practicing SQL** using **different Database Management Systems (DBMSs)** — specifically **SQL Server**, **MySQL**, and **PostgreSQL**.
+This repository was created for **studying and practicing SQL** using **different Database Management Systems (DBMSs)** specifically **SQL Server**, **MySQL**, and **PostgreSQL**.
 The main goal is to strengthen database design and querying skills through practical exercises and applied examples.
 
 ### 🚀 Project Overview
@@ -44,7 +42,7 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 
 ## Português Brasileiro
 
-Este repositório foi criado para **estudo e prática de SQL**, utilizando diferentes **Sistemas de Gerenciamento de Banco de Dados (SGBDs)** — especificamente **SQL Server**, **MySQL** e **PostgreSQL**.
+Este repositório foi criado para **estudo e prática de SQL**, utilizando diferentes **Sistemas de Gerenciamento de Banco de Dados (SGBDs)** especificamente **SQL Server**, **MySQL** e **PostgreSQL**.
 O objetivo principal é aprimorar o domínio de modelagem e consultas em banco de dados por meio de exercícios e exemplos aplicados.
 
 ### 🚀 Visão Geral do Projeto
