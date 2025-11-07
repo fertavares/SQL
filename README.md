@@ -21,7 +21,6 @@ The repository includes exercises and scripts covering:
 * **Microsoft SQL Server**
 * **MySQL**
 * **PostgreSQL**
-* No external programming languages — purely SQL-based learning
 
 ### 📥 Usage
 
@@ -57,7 +56,6 @@ O repositório inclui exercícios e scripts que abordam:
 * **Microsoft SQL Server**
 * **MySQL**
 * **PostgreSQL**
-* Nenhuma linguagem externa — aprendizado focado exclusivamente em SQL
 
 ### 📥 Como Utilizar
 
