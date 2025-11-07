@@ -1,9 +1,3 @@
--- Membros do grupo
--- Fernando Andrade Lima Tavares
--- Clara Nicolini Peres Vecchi Macedo
--- Ellen Christine Ferreira Ozores 
--- Mel Yukari Tognoli Atsuji
--- Murilo Reis de Jesus
 
 CREATE DATABASE IF NOT EXISTS DWAtv5 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_unicode_ci;
 USE DWAtv5;
